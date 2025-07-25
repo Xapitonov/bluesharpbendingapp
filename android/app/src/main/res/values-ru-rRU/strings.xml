@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Let's Bend</string>
+    <string name="action_settings">Настройки</string>
+    <string name="about_title">Let's Bend</string>
+    <string name="action_about">О приложении</string>
+    <string name="action_harp">Let's Bend</string>
+    <string name="about_description">Android-версия BluesHarpBendingApp</string>
+    <string name="about_version">%1$s (%2$d)</string>
+    <string name="settings_key_label">Тональность</string>
+    <string name="settings_tune_label">Строй</string>
+    <string name="settings_pitches_label">Концертный строй</string>
+    <string name="settings_reset_label">Сброс настроек</string>
+    <string name="settings_reset_button">Сбросить</string>
+    <string name="settings_screenlock_label">Не выключать экран</string>
+    <string name="permission_information_message">Для корректной работы приложения необходим доступ к микрофону. Если у вас есть сомнения, ознакомьтесь с политикой конфиденциальности этого приложения.</string>
+    <string name="permission_information_title">Информация</string>
+    <string name="permission_information_button_label">Продолжить</string>
+    <string name="settings_algo_label">Алгоритм</string>
+    <string name="action_training">Тренировка</string>
+    <string name="training_start_button">Начать</string>
+    <string name="training_stop_button">Остановить</string>
+    <string name="training_trainings_label">Гамма</string>
+    <string name="training_precision_label">Точность</string>
+    <string name="training_progress_label">Прогресс</string>
+    <string name="settings_conf_label">Уверенность</string>
+    <string name="settings_chord_conf_label">Уверенность в аккорде</string>
+
+    <!-- Заголовки разделов экрана настроек -->
+    <string name="settings_harp_header">Настройки гармошки</string>
+    <string name="settings_microphone_header">Настройки микрофона</string>
+    <string name="settings_app_header">Настройки приложения</string>
+
+    <!-- Заголовки разделов экрана тренировки -->
+    <string name="training_note_header">Отображение нот</string>
+    <string name="training_settings_header">Настройки тренировки</string>
+    <string name="training_control_header">Управление тренировкой</string>
+
+    <string name="tuning_key_info_format">%1$s | %2$s</string>
+    <string name="about_user_guide">Руководство пользователя</string>
+    <string name="show_chord_experimental">Показ аккордов (экспериментально)</string>
+</resources>
